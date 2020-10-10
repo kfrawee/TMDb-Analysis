@@ -17,14 +17,14 @@ TMDb movies data: This data set contains information about 10,000 movies collect
 Download: [TMDb movie data](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv&sa=D&ust=1532469042115000) (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)).
 
 
-## Requirments 
+## Requirments:
 - Python      3.7.9
 - NumPy       1.19.1
 - Pandas      1.1.2
 - matplotlib  3.3.1
 - seaborn     0.11.0
 
-## Execution
+## Execution:
 In a terminal or command window, navigate to the project directory and run one of the following commands:
 
 ```bash 

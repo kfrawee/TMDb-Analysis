@@ -18,11 +18,11 @@ Download: [TMDb movie data](https://www.google.com/url?q=https://d17h27t6h515a5.
 
 
 ## Requirments 
-Python      3.7.9
-NumPy       1.19.1
-Pandas      1.1.2
-matplotlib  3.3.1
-seaborn     0.11.0
+- Python      3.7.9
+- NumPy       1.19.1
+- Pandas      1.1.2
+- matplotlib  3.3.1
+- seaborn     0.11.0
 
 ## Execution
 In a terminal or command window, navigate to the project directory and run one of the following commands:

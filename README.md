@@ -27,9 +27,12 @@ seaborn     0.11.0
 ## Execution
 In a terminal or command window, navigate to the project directory and run one of the following commands:
 
-`ipython notebook TMDb-Analysis.ipynb`
+```bash 
+ipython notebook TMDb-Analysis.ipynb
+```
 
 OR
 
-`jupyter notebook TMDb-Analysis.ipynb`
----
+```bash
+jupyter notebook TMDb-Analysis.ipynb
+```
